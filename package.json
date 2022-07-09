@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Depsicorp/Ubertest/issues"
   },
-  "homepage": "https://github.com/Depsicorp/Ubertest#readme"
+  "homepage": "https://github.com/Depsicorp/Ubertest#readme",
+  "dependencies": {
+    "node": "^18.5.0"
+  }
 }
