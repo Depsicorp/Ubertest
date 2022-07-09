@@ -1,0 +1,19 @@
+{
+  "name": "ubertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Depsicorp/Ubertest.git"
+  },
+  "author": "Depsius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Depsicorp/Ubertest/issues"
+  },
+  "homepage": "https://github.com/Depsicorp/Ubertest#readme"
+}
